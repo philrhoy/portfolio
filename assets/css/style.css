@@ -36,7 +36,7 @@ html, body {
  * Background colors 
  */
 .blue-bg {
-  background-color: #196fc2;
+  background-color: darkslategrey;
 }
 
 /* 
@@ -44,13 +44,13 @@ html, body {
  */
 .btn {
   font-family: "Varela", sans-serif;
-  background-color: #196fc2;
+  background-color: #182828;
   padding: 0 15px;
   color: #ffffff;
   height: 44px;
   line-height: 42px;
   border-radius: 0;
-  border: 1px solid #196fc2;
+  border: 1px solid #182828;
   text-transform: uppercase;
 }
 
@@ -893,7 +893,7 @@ html, body {
 
 .progress-bar {
   position: relative;
-  background-color: #196fc2;
+  background-color: darkslategray;
   height: 10px;
 }
 
@@ -906,7 +906,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 15px;
-  border-color: transparent transparent #196fc2 transparent;
+  border-color: transparent transparent darkslategray transparent;
   z-index: 2;
 }
 
@@ -1783,7 +1783,7 @@ html, body {
   margin: 0;
   border-top: 1px solid #f6f6f6;
   border-right: 1px solid #f6f6f6;
-  border-bottom: 2px solid #196fc2;
+  border-bottom: 2px solid darkslategray;
   height: 47px;
 }
 
@@ -1804,13 +1804,13 @@ html, body {
 }
 
 .portfolio-sorting li a:hover, .portfolio-sorting li a.active {
-  background-color: #196fc2;
+  background-color: darkslategray;
   color: #ffffff;
-  border-color: #196fc2;
+  border-color: darkslategray;
 }
 
 .portfolio-sorting li a:hover:after, .portfolio-sorting li a.active:after {
-  border-color: #196fc2;
+  border-color: darkslategray;
 }
 
 .portfolio-sorting li a:after, .portfolio-sorting li a.acitve:after {
@@ -1838,7 +1838,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 10px;
-  border-color: #196fc2 transparent transparent transparent;
+  border-color: darkslategray transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1869,7 +1869,7 @@ html, body {
 
 .portfolio-item .portfolio-item-thumb:after {
   content: '';
-  background-color: #196fc2;
+  background-color: darkslategray;
   position: absolute;
   left: 0;
   right: 0;
@@ -1954,8 +1954,8 @@ html, body {
 }
 
 .portfolio-item:hover .portfolio-item-thumb .rectangle:hover {
-  background-color: #196fc2;
-  border-color: #196fc2;
+  background-color: #182828;
+  border-color: #182828;
   color: #ffffff;
 }
 
