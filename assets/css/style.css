@@ -265,7 +265,7 @@ html, body {
   height: 100vh;
   max-width: 100%;
   max-height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 /* HEADER
@@ -2219,7 +2219,7 @@ textarea.form-control {
 
 .section-networks a:hover, .section-networks a:focus {
   background-color: #ffffff;
-  color: #196fc2;
+  color: darkslategray;
 }
 
 /* FOOTER
@@ -2250,7 +2250,7 @@ textarea.form-control {
 }
 
 .site-footer ul a:hover {
-  color: #196fc2;
+  color: darkslategray;
 }
 
 .site-footer a {
@@ -2260,7 +2260,7 @@ textarea.form-control {
 }
 
 .site-footer a:hover {
-  color: #196fc2;
+  color: darkslategray;
 }
 
 .site-footer .rectangle {
@@ -2278,7 +2278,7 @@ textarea.form-control {
 }
 
 .site-footer .rectangle:hover {
-  background-color: #196fc2;
+  background-color: darkslategray;
   color: #ffffff;
 }
 
@@ -2335,7 +2335,7 @@ textarea.form-control {
   top: -20px;
   height: 40px;
   width: 40px;
-  background-color: #196fc2;
+  background-color: darkslategray;
   color: #ffffff;
   box-shadow: none;
   border: 0;
@@ -2344,8 +2344,8 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #196fc2;
-  border-color: #196fc2;
+  color: darkslategray;
+  border-color: darkslategray;
 }
 
 .modal-header,
