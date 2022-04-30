@@ -1636,7 +1636,7 @@ html, body {
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-date {
   padding: 0 10px;
-  background-color: #196fc2;
+  background-color: darkslategray;
 }
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-position {
@@ -2060,9 +2060,7 @@ html, body {
 }
 
 /* Sections background: Twitter */
-.section-twitter {
-  background: url(../img/portfolio-8.jpg) center no-repeat fixed;
-}
+
 
 .section-twitter .container {
   max-width: 770px;
