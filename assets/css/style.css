@@ -445,7 +445,7 @@ html, body {
 }
 
 .hero-content {
-  color: #ffffff;
+  color: #ffffff !important;
   display: table-cell;
   vertical-align: middle;
   position: relative;
