@@ -403,7 +403,7 @@ html, body {
   }
   .site-navigation .navbar-collapse {
     position: relative;
-    background-color: #196fc0;
+    background-color: darkslategray;
     z-index: 99;
     text-align: center;
     border-top: 0;
