@@ -425,7 +425,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero {
-  background: url(../img/me3.png) center no-repeat;
+  background: url(../img/MyImage.png) center no-repeat;
   height: 100%;
   width: 100%;
   display: table;
@@ -453,11 +453,12 @@ html, body {
 
 .hero-content h1 {
   width: 100%;
-  padding: 0 15px;
+  padding: 0px 15px;
   font-size: 40px;
   font-weight: 700;
   text-align: center;
   margin: 0 auto;
+  margin-top: 300px;
   text-transform: uppercase;
 }
 
